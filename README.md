@@ -3,10 +3,10 @@
 # Why
 Have you ever tried to watch something in a foreign language with subtitle and realized that the subtitle is out of sync?
 
-Have you ever wished that the subtitle will stay on the screen for a bit longer so you can read everything?
+Have you ever wished that the subtitle will stay on the screen for a bit longer, so that you can read everything?
 
 # How
-Obviously, I can't Netflix/Amazon/Youtube and whatnot.
+Obviously, I can't fix Netflix/Amazon/Youtube and whatnot.
 
 My solution is to download the video and subtitle and watch it offline with VLC Media Player.
 
